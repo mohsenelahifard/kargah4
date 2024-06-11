@@ -1,0 +1,20 @@
+.divTable {
+    display: table;
+    width: 1024px;
+    margin-left: auto;
+    text-align: center;
+    margin-right: auto;
+    direction: rtl;
+}
+
+.divTable,
+input,
+textarea {
+    font-family: '2  Roya';
+}
+
+.divTableCell {
+    display: table-cell;
+    border: 1px solid #999999;
+    padding: 3px 10px;
+}
